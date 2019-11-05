@@ -27,5 +27,5 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-  <img src="w1.PNG" width="350" title="hover text">
-    <img src="w_2.PNG" width="350" title="hover text">
+  <img src="w1.PNG" width="550" height = "300" title="hover text">
+    <img src="w_2.PNG" width="550" height = "300" title="hover text">
